@@ -1,2 +1,3 @@
 # MVPostgresServer
-PostgreSQL palvelimen asennuksen dokumentointi
+PostgreSQL palvelimen asennuksen dokumentointi löytyy Wiki-sivuilta.
+
